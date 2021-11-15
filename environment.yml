@@ -1,0 +1,35 @@
+name: tfa
+channels:
+  - nvidia
+  - defaults
+dependencies:
+  - pip:
+    - absl-py==0.11.0
+    - cloudpickle==1.6.0
+    - cycler==0.10.0
+    - decorator==4.4.2
+    - dm-tree==0.1.5
+    - flatbuffers==1.12
+    - future==0.18.2
+    - gast==0.3.3
+    - gin-config==0.4.0
+    - gym==0.18.0
+    - kiwisolver==1.3.1
+    - matplotlib==3.3.4
+    - numpy==1.19.5
+    - pandas==1.2.1
+    - pillow==7.2.0
+    - protobuf==3.14.0
+    - pyglet==1.5.0
+    - pyparsing==2.4.7
+    - python-dateutil==2.8.1
+    - pytz==2021.1
+    - six==1.15.0
+    - tensorboard==2.4.1
+    - tensorflow==2.4.0
+    - tensorflow-estimator==2.4.0
+    - tensorflow-probability==0.12.1
+    - typing-extensions==3.7.4.3
+    - wrapt==1.12.1
+
+
