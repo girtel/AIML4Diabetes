@@ -21,10 +21,6 @@ for env in env_dict:
         print("Remove {} from registry".format(env))
         del gym.envs.registration.registry.env_specs[env]
 
-
-
-
-
 # specify start_time as the beginning of today
 now = datetime.now()
 start_time = datetime.combine(now.date(), datetime.min.time())
