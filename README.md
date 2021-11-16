@@ -15,3 +15,9 @@ sequence=15, #Insulin injection interval, 1 seq = 3 mins
 harrison_benedict=True)), #Use Harrison-Benedict's meal schedule
 370 #Step time limit
 ```
+
+For evaluation in evalagent.py also same as above.
+
+##For BB and PID
+
+You can set how many random seeds and days to run in BBGreedy.py and PIDGreedy.py
