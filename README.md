@@ -1,6 +1,6 @@
 # AIML4Diabetes
 
-##For PPO-RNN
+## For PPO-RNN
 
 Install environment
 
@@ -18,6 +18,6 @@ harrison_benedict=True)), #Use Harrison-Benedict's meal schedule
 
 For evaluation in evalagent.py also same as above.
 
-##For BB and PID
+## For BB and PID
 
 You can set how many random seeds and days to run in BBGreedy.py and PIDGreedy.py
