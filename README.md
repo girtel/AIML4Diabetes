@@ -28,3 +28,7 @@ python evalagent.py --root_dir logeval/patient --saved_dir ppo-rnn-policies/XXX/
 ## For BB and PID
 
 You can set how many random seeds and days to run in BBGreedy.py and PIDGreedy.py
+
+
+Created by Phuwadol Viroonluecha.
+Developed and contributed by Phuwadol Viroonluecha, Eateban Egea Lopez and Jose Santa.
